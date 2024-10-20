@@ -29,7 +29,7 @@ This is a comprehensive Pokémon data collection, including detailed information
 
 1. Open terminal or command prompt
 
-2. download `get_tools.py`:
+2. download `pokemon-tcg-collections/get_tools.py`:
 
    ```bash
    download or copy file get_tools.py
